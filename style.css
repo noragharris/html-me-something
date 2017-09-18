@@ -1,0 +1,22 @@
+*{
+  background-color: #c5e7f1 ;
+  font-family: Calibri, sans-serif;
+  color: #4a575a;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.headings{
+  color: #7b9097;
+}
+
+.captions{
+  color: #313a3c;
+}
+
+ul{
+  padding-left: 100px;
+  margin-bottom: 0px;
+}
